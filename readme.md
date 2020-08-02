@@ -1,1 +1,3 @@
-#Daily problems solutions from [techseries.dev/daily](https://www.techseries.dev/daily)
+# Daily problems solutions
+
+Wanna solve it too? Check [here](https://https://www.techseries.dev/daily)!~~~~
